@@ -5,5 +5,7 @@
   {"id": "drag-4", "group": "Sub-Groups", "label": "North West Cluster"},
   {"id": "drag-5", "group": "Sub-Groups", "label": "South Cluster"},
   {"id": "drag-6", "group": "Sub-Groups", "label": "Literacy Focus"},
-  {"id": "drag-7", "group": "Other Custom", "label": "Local MAT (3 schools)"}
+  {"id": "drag-7", "group": "Other Custom", "label": "Local MAT (3 schools)"},
+  {"id": "drag-8", "group": "Other Custom", "label": "Birkenhead Ward (12 schools)"},
+  {"id": "drag-9", "group": "Other Custom", "label": "100 highest FSM secondaries (100)"}
 ]
