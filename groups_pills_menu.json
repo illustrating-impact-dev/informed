@@ -7,5 +7,5 @@
   {"id": "drag-6", "group": "SUB-GROUPS", "label": "Literacy Focus", "schools": "99"},
   {"id": "drag-7", "group": "OTHER CUSTOM GROUPS", "label": "Local MAT (3 schools)", "schools": "99"},
   {"id": "drag-8", "group": "OTHER CUSTOM GROUPS", "label": "Birkenhead Ward (12 schools)", "schools": "99"},
-  {"id": "drag-9", "group": "OTHER CUSTOM GROUPS", "label": "100 highest FSM secondaries (100)", "schools": "99"}
+  {"id": "drag-9", "group": "OTHER CUSTOM GROUPS", "label": "Highest FSM secondaries (100)", "schools": "99"}
 ]
